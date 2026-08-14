@@ -2,6 +2,6 @@
 
 | Nombre | Apellido | DNI |
 |--------|----------|-----|
-| | | |
-| | | |
+|Ramiro |Couselo | |
+|Pablo | Pedernera| |
 | | | |
